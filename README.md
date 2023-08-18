@@ -19,5 +19,8 @@ npm install
 npm install express
 #
 npm install hbs
-## 3. Run the project and use the interface with the following command:
+## 3. Run the project using the following command:
 node index.js
+
+## 4. Open a broswer and interact with the website through the following URL:
+http://localhost:3000/
